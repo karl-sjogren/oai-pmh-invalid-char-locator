@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/bin": true,
+        "**/obj": true,
+    },
+    "[json]": {
+        "editor.tabSize": 2
+    },
+    "[csharp]": {
+        "editor.tabSize": 4
+    },
+    "[xml]": {
+        "editor.tabSize": 2
+    },
+    "dotnet-test-explorer.testProjectPath": "./test/*.csproj",
+    "dotnet-test-explorer.showCodeLens": true
+}
